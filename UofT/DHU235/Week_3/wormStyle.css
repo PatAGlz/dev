@@ -21,10 +21,14 @@ line {
 }
 
 verb {
-	
 	font-family: "Garamond", sans-serif;
 	color: rgb(153, 65, 225);
 	
+}
+
+nouns {
+	font-family: "Helvetica", sans-serif;
+	color: green;
 }
 /*
 eaten {

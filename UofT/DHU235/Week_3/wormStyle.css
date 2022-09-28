@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+h1 {
+	color: red;
+	text-align: left;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+line::before{
+	content: "\a ";
+    	/*white-space: pre;*/
+}
+
+line {
+	background-color: white;
+	font-family: "Arial Black", sans-serif;
+	font-size: 100%;
+	color: black;
+	
+}
+
+verb {
+	
+	font-family: "Garamond", sans-serif;
+	color: rgb(153, 65, 225);
+	
+}
+/*
+eaten {
+
+	color: red;
+	
+	
+}
+
+eaten:hover {
+	opacity: 0;
+	transition: 3s all ease;
+	color: white;
+}
+*/
+
+
+
+
+
